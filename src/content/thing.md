@@ -2,7 +2,8 @@
 isPublished: true
 price: 4500
 slug: thing
-title: "thing "
+isPublished: true
+title: thing
 seoTitle: Дизайн предметов
 seoDescription: Необходимо добавить краткое описание
 isAtFooter: true

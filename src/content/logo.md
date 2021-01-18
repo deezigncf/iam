@@ -2,6 +2,7 @@
 isPublished: true
 price: 250
 slug: logo
+isPublished: true
 title: logo
 seoTitle: Дизайн логотипа
 seoDescription: Необходимо добавить краткое описание

@@ -1,6 +1,7 @@
 ---
 isPublished: true
 price: 1000
+isPublished: true
 slug: webdev
 title: webdev
 seoTitle: PWA / SPA / JAM stack applications

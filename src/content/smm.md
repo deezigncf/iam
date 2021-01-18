@@ -2,6 +2,7 @@
 isPublished: false
 price: 10
 slug: smm
+isPublished: false
 title: smm
 seoTitle: Продвижение в социальных сетях
 seoDescription: Необходимо добавить краткое описание
